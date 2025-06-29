@@ -1,4 +1,3 @@
-# Quotes-game
 #  Quote Guessing Game Web App (Streamlit)
 
 This is a fun little web app where you read a quote and try to guess who said it. You get 4 tries, and helpful hints are given after each wrong guess.
