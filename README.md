@@ -29,7 +29,7 @@ This project is completed in 3 simple steps:
   - Hint 2: First letter of the first name
   - Hint 3: First letter of the last name
 - After 4 wrong attempts, the correct answer is revealed.
-- uUed `Streamlit` to turn this into a web app.
+- Used `Streamlit` to turn this into a web app.
 
 ---
 
